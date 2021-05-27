@@ -1,3 +1,11 @@
+# PrisonersDilemmaTournament Community Fork
+
+This is a fork of PrisonersDilemmaTournament including improved runner and more strategies for better testing.
+
+`code/prisonersDilemma.py` has a variety of parameters that can be tweaked. Run it with the `--help` argument to list all of them.
+
+Original README is below.
+
 # PrisonersDilemmaTournament
 
 This is my CS 269i class project.
